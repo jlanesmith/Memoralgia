@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MemoralgiaApp",
-    "slug": "MemoralgiaApp",
+    "name": "Memoralgia",
+    "slug": "Memoralgia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
